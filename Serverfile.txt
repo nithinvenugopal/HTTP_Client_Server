@@ -1,0 +1,5 @@
+Computer Networks
+
+This is a test program running as client and server
+Content can be anything from text file to image or html file
+This is an example for GET request to request from the server

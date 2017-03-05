@@ -1,0 +1,14 @@
+GET Request-
+
+
+1) Run the server HServer (Make sure the port number is given as argument in Run configuration)
+2) Open command prompt and run as below
+    java HClient localhost 5002 GET filepath
+3) If the file is present server returns the file content or else the server returns 404 file not found.
+
+PUT Request-
+
+1) Run the server Hserver (Make sure the port number is given as argument in Run configuration)
+2) Open command prompt and run as below
+    java HClient localhost 5002 PUT filepath
+3) If the file is uploaded the server in the console will display that the file is saved
